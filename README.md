@@ -1,5 +1,5 @@
 Insert Into users(first_name, last_name, email, password, location, dept, is_admin, register_date)
-Values ('John', 'Doe', 'John@gmail.com', '123456', 'Massachusetts', 'devleopment', 1, now());
+Values ('John', 'Doe', 'JohnDoe@gmail.com', '654321', 'Massachusetts', 'devleopment', 1, now());
 
 Select * From users;
 
