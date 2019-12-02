@@ -1,3 +1,8 @@
+What is MySQL:
+MySQL is a fast, easy to use relational database. It is currently the most popular open-source database. It is very commonly used in conjunction with PHP scripts to create powerful and dynamic server-side applications.
+
+MySQL is used for many small and big businesses. It is developed, marketed and supported by MySQL AB, a Swedish company. It is written in C and C++.
+
 Insert Into users(first_name, last_name, email, password, location, dept, is_admin, register_date)
 Values ('John', 'Doe', 'JohnDoe@gmail.com', '654321', 'Massachusetts', 'devleopment', 1, now());
 
